@@ -3,7 +3,7 @@
 * **Este projeto é apenas a api/backend, o front-end encontra-se neste [link](https://github.com/Filipe-Nunes-Silva/Clone-Olx-FrontEnd)**
 * **Projeto desenvolvimento em decorrencia do curso de node.js da B7Web**
 
-##Images do projeto
+## Images do projeto
 ![img1](https://github.com/Filipe-Nunes-Silva/Clone-Olx-BackEnd/blob/main/img1.png)
 ![img2](https://github.com/Filipe-Nunes-Silva/Clone-Olx-BackEnd/blob/main/img2.png)
 ![img3](https://github.com/Filipe-Nunes-Silva/Clone-Olx-BackEnd/blob/main/img3.png)
@@ -15,7 +15,7 @@
 ![img9](https://github.com/Filipe-Nunes-Silva/Clone-Olx-BackEnd/blob/main/img9.png)
 ![img10](https://github.com/Filipe-Nunes-Silva/Clone-Olx-BackEnd/blob/main/img10.png)
 
-###Configurando o arquivo .env, banco de dados e iniciando o projeto:
+### Configurando o arquivo .env, banco de dados e iniciando o projeto:
 Obs: Esse projeto é feito com back-end em Node.js e usa como banco de dados o mongoDb, então para rodar esse projeto você precisa ter instalado as versões mais recentes do Node.js e do mongoDb. Crie um banco de dados vazio no mongoDb chamado 'olx' e preencha o arquivo .ENV como explicado abaixo!
 
 **1 - Adicione a pasta node_modules com o comando:**
