@@ -1,7 +1,6 @@
 # Clone-Olx-BackEnd
 * **Projeto Backend de um clone da API da olx com login/autenticação(jwt) e cadastro/edição de usuarios e anuncios**
 * **Este projeto é apenas a api/backend, o front-end encontra-se neste [link](https://github.com/Filipe-Nunes-Silva/Clone-Olx-FrontEnd)**
-* **Projeto desenvolvimento em decorrencia do curso de node.js da B7Web**
 * **PROJETO FEITO EM NODE.JS**
 
 ## Images do projeto
